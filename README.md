@@ -11,5 +11,9 @@ This platform is useful for event organizers who want to streamline their event 
 1. If you need any assistance or have questions regarding the project, you can ask them on the GDSC's discord server in the web development channel. While asking a question tag the moderator.
 2. Issue Tracker: If you encounter any bugs or have feature requests, please submit them on the project's issue tracker on GitHub.
 
+## Tech Stack
+1. Backend - Python, Django REST Framework
+2. Frontend - ReactJS
+
 ## Useful Links
 [Project description](https://docs.google.com/document/d/1RFMW2RIGl4dgPZMzCHc90Y1SWEqN2PFGWbMyyXML8Nw/edit?usp=sharing)
