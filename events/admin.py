@@ -5,4 +5,3 @@ admin.site.register(User)
 admin.site.register(Event)
 admin.site.register(Tag)
 admin.site.register(Schedule)
-

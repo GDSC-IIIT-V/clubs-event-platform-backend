@@ -33,3 +33,5 @@ class Schedule(models.Model):
     event_schedule = models.JSONField(default=dict(day_title="", start_time="", end_time=""))
 
 
+
+# Create your models here.
